@@ -1,2 +1,3 @@
 I was thinking of what to add on this hello text.
 For anyone who reads this, just know that cats will always be better than dogs in every aspect in existance.
+Adding a new sentance for myself, just to play around with the commit function and more.
